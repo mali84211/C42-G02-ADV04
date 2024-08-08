@@ -27,7 +27,25 @@ namespace C42_G02_ADV04
             //ball.BalllocatinChanged += p1.Run;
             #endregion
 
-            #region
+            #region v2
+            //channel channel= new channel() {channelname="acw"};
+            //channel.AddVideo(new Video()){title ="title1",Descraption="Desc1" };
+            //Subscriber S1 = new Subscriber() { subscriber = "mo" };
+            //Subscriber S2 = new Subscriber() { subscriber = "mm" };
+            //Subscriber S3 = new Subscriber() { subscriber = "rr" };
+            //Subscriber S4 = new Subscriber() { subscriber = "yy" };
+            //Subscriber S5 = new Subscriber() { subscriber = "xx" };
+            //channel.uploadVideo += S1.Modify;
+            //channel.uploadVideo += S2.Modify;
+            //channel.uploadVideo += S3.Modify;
+            //channel.uploadVideo += S4.Modify;
+            
+            //channel.AddVideo(new Video()){ title = "title2",Descraption = "Desc2" };
+            //channel.uploadVideo += S1.Modify;
+            //channel.uploadVideo += S5.Modify;
+
+            //channel.AddVideo(new Video()){ title = "title3",Descraption = "Desc3" };
+
             #endregion
 
             #region
