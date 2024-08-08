@@ -48,7 +48,24 @@ namespace C42_G02_ADV04
 
             #endregion
 
-            #region
+            #region V3
+            //Hashtable Note = new Hashtable();
+            //Console.WriteLine(Note.Count);
+            //Note.Add(Key:"mo",Value:99999);
+            //Note.Add(Key: "ali", Value: 88888);
+            //Note.Add(Key: "ahmed", Value: 77777);
+            //Console.WriteLine(Note.Count);
+            //foreach (var item in Note.key)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Note[Key = "ahmed"] = 12;
+            //Console.WriteLine(Note[Key = "ahmed"] = 12);
+            //Console.WriteLine();
+            //foreach (var item in Note)
+            //{
+            //    Console.WriteLine(item.key,item.value);
+            //}
             #endregion
         }
     }
